@@ -13,8 +13,7 @@ I'm always open to discussing new ideas, potential collaborations, and opportuni
 ---
 
 
-- 💞️ I’m looking to collaborate on AI, Machine Learning, Deep Learning, Reinforcement Learning, Quantitative Finance, and Mathematical Modeling projects.
-- 📫 How to reach me: adidadam9@gmail.com
+
 
 <!---
 Adam-ADID/Adam-ADID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
